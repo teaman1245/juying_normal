@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>huge-web Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  
+  房贷首付
   <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
